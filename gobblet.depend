@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638812239 source:c:\users\nasta\onedrive\desktop\gobblet\gobblet\main.cpp
+	<graphics.h>
+	<iostream>
+	<math.h>
+
